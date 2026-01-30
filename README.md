@@ -14,3 +14,7 @@ To use AeroPredict with the OpenWeatherMap API, you need to obtain an API key. F
 * Once logged in, go to your profile and navigate to the *API Keys* section.  
 * Generate a new API key and copy it.  
 * In the project directory, locate the script.js file. Inside this file, you will find a constant called API_KEY. Replace the placeholder value 'YOUR_API_KEY' with your actual API key obtained from OpenWeatherMap.
+
+#screeshots of output
+<img width="1251" height="664" alt="image" src="https://github.com/user-attachments/assets/963551eb-3153-4b37-8835-3b2c6730beea" />
+
