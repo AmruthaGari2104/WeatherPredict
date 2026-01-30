@@ -21,6 +21,8 @@ To use AeroPredict with the OpenWeatherMap API, you need to obtain an API key. F
 <img width="1252" height="670" alt="Screenshot 2026-01-30 190639" src="https://github.com/user-attachments/assets/568dc4a5-ceb0-48e8-9c75-fc6bdc1730ad" />
 <img width="1254" height="676" alt="Screenshot 2026-01-30 190907" src="https://github.com/user-attachments/assets/e4b11c89-b12a-48ab-856a-0b5d3b6f7cda" />
 <img width="1253" height="666" alt="Screenshot 2026-01-30 191012" src="https://github.com/user-attachments/assets/a3ad8cb7-bb00-43f4-9aba-55fa6c82da54" />
+<img width="1252" height="671" alt="image" src="https://github.com/user-attachments/assets/18894656-6eeb-4b49-b95f-e37053155f58" />
+
 
 
 
